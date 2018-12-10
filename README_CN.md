@@ -1,25 +1,3 @@
-<p align="center">
-    <img src="./docs/img/egret_logo.jpg"
-         height="130">
-</p>
-<p align="center">
-    <a href="https://github.com/egret-labs/egret-core/network">
-        <img src="https://img.shields.io/github/forks/egret-labs/egret-core.svg"
-             alt="forks">
-    </a>
-    <a href="https://github.com/egret-labs/egret-core/stargazers">
-        <img src="https://img.shields.io/github/stars/egret-labs/egret-core.svg"
-             alt="stars">
-    </a>
-    <a href="https://github.com/egret-labs/egret-core">
-        <img src="https://img.shields.io/badge/version-5.2.13-green.svg"
-             alt="version">
-    </a>
-    <a href="./LICENSE.md">
-        <img src="https://img.shields.io/badge/license-New%20BSD-blue.svg"
-             alt="license">
-    </a>
-</p>
 
 [EN](README.md) / [CN](README_CN.md)
 
